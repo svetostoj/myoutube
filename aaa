@@ -1,0 +1,20 @@
+console.developers.google.com
+
+https://console.developers.google.com/apis/credentials/key/8236369730497072808?project=langfordst-1524334726417
+AIzaSyCCut3apM6CwpipUFyeX0CgFIscXOVqMb4
+
+youtube search api
+https://developers.google.com/youtube/v3/docs/search/list
+
+Request
+
+GET https://www.googleapis.com/youtube/v3/search
+
+dify parameters passed to this example to update the code snippets or execute the request to see the API response:
+	 
+type
+q - surfing
+maxResults - 25
+part - snippet
+
+npm install --save axios
